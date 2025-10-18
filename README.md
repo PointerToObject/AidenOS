@@ -1,4 +1,5 @@
 # AidenOS and Aiden++ Language
+<img width="727" height="81" alt="image" src="https://github.com/user-attachments/assets/636d5c3d-c61c-45ba-8eb0-7928fa55e1bb" />
 
 ## Overview
 
