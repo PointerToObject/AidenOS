@@ -260,6 +260,7 @@ v_x resd 1
 v_i resd 1
 v_ptr2x resd 1
 vga_cursor resd 1
+```
 
 ---
 
